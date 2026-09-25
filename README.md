@@ -21,3 +21,5 @@ The most prevalent features added by this script are:
 7. Introduces support for collapsible categories ("menu-groups"), which was not present in the official interface.
 8. Near future: Easier exporting of conversations by permitting users to click an export button in the three dots menu
    - Ah, yeah. About that. I forgot to add the three dots menu so (for now) it's kinda difficult to archive your sessions.
+9. *Maybe: Some sort of sidebar-local search/filter. Kinda redundant given the effort it would take.*
+10. Definitely going to try: a decent implementation of "pinned" sessions.
